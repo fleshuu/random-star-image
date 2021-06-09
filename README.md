@@ -4,7 +4,7 @@ Pixel art created with python pillow library.
 
 # Reminder
 
-Stars look tiny on bigger pictures in case you wan't generate stars on custom picture. So try downscaling your picture with this tool first https://resizeimage.net. (thanks bayartsogt-ya)
+Stars look tiny on bigger pictures in case you wan't generate stars on custom picture. So try downscaling your picture with this tool first https://resizeimage.net. (thanks [bayartsogt-ya](https://github.com/bayartsogt-ya))
 
 ## Example picture
 
