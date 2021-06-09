@@ -1,4 +1,4 @@
-# Creating a unique pixel art of a starry night sky
+# Simple python code for creating a unique pixel art of a starry night sky
 
 Pixel art created with python pillow library.
 
